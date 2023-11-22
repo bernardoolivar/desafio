@@ -21,3 +21,5 @@ if (xp<=1000){
 }
 
 console.log("O héroi de nome '"+nomeHeroi+"' está no nível **"+nivel+"**.")
+console.log("Oi")
+console.log("Teste")
