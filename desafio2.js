@@ -23,4 +23,4 @@ if (resultCompRankCalc<=10){
     compRank = "Imortal"
 }
 
-console.log("O herói tem saldo de "+resultCompRankCalc+" e está no nível "+compRank+".")
+console.log("O herói tem saldo de "+resultCompRankCalc+" vitórias e está no nível "+compRank+".")
